@@ -79,9 +79,9 @@ Each ticket includes:
 
 ![VPN Troubleshooting](05-vpn-ticket-details.png)
 
-![Labtop Deployment](06-laptop-setup-ticket.png)
+06-labtop-setup-ticket.png
 
-![Blue Screen Investigation](07-board-ticket.png.png)
+07-board-ticket.png.png
 
 ![Kanban Board](08-board-view.png.png)
 
