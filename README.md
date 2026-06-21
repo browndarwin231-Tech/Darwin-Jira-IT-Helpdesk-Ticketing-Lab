@@ -69,57 +69,23 @@ Each ticket includes:
 
 # Screenshots
 
-## Project Summary
+![Project Summary](01-project-summary.png)
 
-![Project Summary](assets/01-project-summary.png)
+![Ticket List](02-ticket-list.png)
 
----
+![Outlook Incident](03-outlook-ticket-details.png)
 
-## Ticket List
+![Technician Documentation](04-outlook-comments.png)
 
-![Ticket List](assets/02-ticket-list.png)
+![VPN Troubleshooting](05-vpn-ticket-details.png)
 
----
+![Laptop Deployment](06-laptop-setup-ticket.png)
 
-## Outlook Incident
+![Blue Screen Investigation](07-board-ticket.png)
 
-![Outlook Ticket](assets/03-outlook-ticket-details.png)
+![Kanban Board](08-board-view.png.png)
 
----
-
-## Technician Documentation
-
-![Technician Comments](assets/04-outlook-comments.png)
-
----
-
-## VPN Troubleshooting
-
-![VPN Ticket](assets/05-vpn-ticket-details.png)
-
----
-
-## Laptop Deployment
-
-![Laptop Setup](assets/06-laptop-setup-ticket.png)
-
----
-
-## Blue Screen Investigation
-
-![BSOD Ticket](assets/07-bsod-ticket-details.png)
-
----
-
-## Kanban Board
-
-![Board View](assets/08-board-view.png)
-
----
-
-## Completed Tickets
-
-![Resolved Tickets](assets/09-resolved-ticket-list.png)
+![Completed Tickets](09-resolved-ticket-list.png)
 
 ---
 
